@@ -19,9 +19,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=everton617&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everton617&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
-Me Visite também lá no <br/>
-<a src="https://www.linkedin.com/in/everton-marinho-5822ab218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
+Me Visite meu WebSite e meu Linkedin <br/>
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-marinho-5822ab218/)
+[![linkedin](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://beamish-dragon-8e8add.netlify.app/) 
+<br/>
 Estou sempre a disposição para tirar quaisquer dúvidas.
-</div>
